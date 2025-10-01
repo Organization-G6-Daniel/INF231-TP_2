@@ -1,4 +1,4 @@
-Implémentation des listes chaînées simples, circulaire et doublement chaînée 
+Implémentation des listes chaînées simples, circulaires et doublement chaînées
 
 Il s'agit ici du TP no2 de INF231 portant sur les listes chaînées circulaire semi circulaire et doublement chaînée 
 il regroupait:
